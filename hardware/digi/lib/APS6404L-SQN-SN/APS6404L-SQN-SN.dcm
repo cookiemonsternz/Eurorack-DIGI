@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP APS6404L-SQN-SN
+D DRAM IoT RAM 64Mb QSPI (x1,x4) SDR 144MHz, 1.8V, Ind. Temp., SOP8
+K
+F https://www.mouser.es/datasheet/2/1127/APM_PSRAM_QSPI_APS6404L_SQN_v3_6_PKG-1954836.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ES8311") (type "KiCad") (uri "${KIPRJMOD}/lib/ES8311/ES8311.kicad_sym") (options "") (descr ""))
+	(lib (name "APS6404L-SQN-SN") (type "KiCad") (uri "${KIPRJMOD}/lib/APS6404L-SQN-SN/APS6404L-SQN-SN.kicad_sym") (options "") (descr ""))
+)
