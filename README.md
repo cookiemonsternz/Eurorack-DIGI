@@ -17,6 +17,8 @@ The board has a simple audio input and output, as well as two rotary encoders an
 
 In terms of getting it set up, you'll need to program the fpga. To do this, follow the general setup guides for lattice radiant. It should be configured as a project for the iCE40UP5K-SG48I. An example showing the board acting as a basic buffer is available in the gateware folder.
 
+Once assembled, the board uses a standard eurorack connector as well as standard 3.5mm audio jacks for input and output. Pretty plug and play :)
+
 ## Renders
 ![Render 1](./hardware/cad/render/render-1.png)
 ![Render 2](./hardware/cad/render/render-2.png)
