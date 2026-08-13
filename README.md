@@ -22,7 +22,7 @@ In terms of getting it set up, you'll need to program the fpga. To do this, foll
 ![Render 2](./hardware/cad/render/render-2.png)
 ![Board front](https://cdn.hackclub.com/019eae4b-24bb-70e1-b7ac-5cde8fa4e35e/paste-1781040618200.png)
 ![Board back](https://cdn.hackclub.com/019eae4b-f694-78a3-9688-0b2585b97876/paste-1781040672978.png)
-![Panel art](./hardware/cad/panel-art.png)
+![Panel art](./hardware/cad/panel.png)
 
 ## Schematics
 Schematics are available as a [pdf](./hardware/digi/plots/digi.pdf) or as svgs in [hardware/digi/plots](./hardware/digi/plots/).
