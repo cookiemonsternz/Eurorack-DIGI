@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "ES8311") (type "KiCad") (uri "${KIPRJMOD}/lib/ES8311/ES8311.kicad_sym") (options "") (descr ""))
 	(lib (name "APS6404L-SQN-SN") (type "KiCad") (uri "${KIPRJMOD}/lib/APS6404L-SQN-SN/APS6404L-SQN-SN.kicad_sym") (options "") (descr ""))
+	(lib (name "AT24C256C-SSHL-T") (type "KiCad") (uri "${KIPRJMOD}/lib/AT24C256C-SSHL-T/AT24C256C-SSHL-T.kicad_sym") (options "") (descr ""))
 )

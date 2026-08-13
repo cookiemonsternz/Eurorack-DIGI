@@ -1,0 +1,6 @@
+#Start recording tcl command: 7/23/2026 10:34:13
+#Project Location: C:/Users/Christopher/Documents/.Projects/eurorack/Eurorack-DIGI/gateware/buffer; Project name: buffer
+prj_create -name "buffer" -impl "impl_1" -dev iCE40UP5K-SG48I -performance "High-Performance_1.2V" -synthesis "lse"
+prj_save 
+prj_add_source "C:/Users/Christopher/Documents/.Projects/eurorack/Eurorack-DIGI/gateware/buffer/source/impl_1/main.sv"
+#Stop recording: 7/23/2026 14:34:14

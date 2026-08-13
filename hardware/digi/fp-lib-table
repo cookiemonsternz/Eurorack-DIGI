@@ -1,0 +1,10 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TL072") (type "KiCad") (uri "${KIPRJMOD}/lib/TL072CDT/footprints.pretty") (options "") (descr ""))
+	(lib (name "ES8311") (type "KiCad") (uri "${KIPRJMOD}/lib/ES8311") (options "") (descr ""))
+	(lib (name "MICROXNJ") (type "KiCad") (uri "${KIPRJMOD}/lib/MICROXNJ") (options "") (descr ""))
+	(lib (name "PJ301M-2-B") (type "KiCad") (uri "${KIPRJMOD}/lib/PJ301M-2-B") (options "") (descr ""))
+	(lib (name "AT24C256C-SSHL-T") (type "KiCad") (uri "${KIPRJMOD}/lib/AT24C256C-SSHL-T") (options "") (descr ""))
+	(lib (name "APS6404L-SQN-SN") (type "KiCad") (uri "${KIPRJMOD}/lib/APS6404L-SQN-SN") (options "") (descr ""))
+	(lib (name "TS-1088-AR02016") (type "KiCad") (uri "${KIPRJMOD}/lib/TS-1088-AR02016") (options "") (descr ""))
+)
